@@ -66,3 +66,13 @@ G Series is often selected as an upgrade option for small boat protection packag
 ---
 
 [← Back to Series Overview](00-series-overview.md)
+---
+
+## Related Structural References
+
+- [Complete Structural Overview](00-series-overview.md)
+- [A Series](a-series-pear-shaped.md)
+- [F Series](f-series-twin-eye.md)
+- [D Series](d-series-cylindrical.md)
+- [G Series](g-series-ribbed.md)
+- [HTM Series](htm-series-heavy-duty.md)
