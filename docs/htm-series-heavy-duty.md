@@ -65,3 +65,6 @@ For distributors, marina suppliers and OEM buyers:
 - Suitable for project-based marina supply
 
 HTM Series is often positioned as a premium structural option within inflatable fender product lines.
+---
+
+[← Back to Series Overview](00-series-overview.md)
