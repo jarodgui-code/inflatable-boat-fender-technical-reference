@@ -28,3 +28,12 @@ Choosing the correct structure reduces lifecycle replacement cost and improves v
 | D Series | Smooth cylindrical | Side mounting | Compact footprint | Small–medium vessels |
 | G Series | Ribbed cylindrical | Small boats & abrasion | Progressive load absorption | Small craft |
 | HTM Series | Hole-through-middle | High-use marinas | Shape retention & durability | 20–50 ft vessels |
+---
+
+## Individual Series Technical References
+
+- [A Series – Pear Shaped](a-series-pear-shaped.md)
+- [F Series – Twin Eye](f-series-twin-eye.md)
+- [D Series – Cylindrical](d-series-cylindrical.md)
+- [G Series – Ribbed](g-series-ribbed.md)
+- [HTM Series – Heavy Duty](htm-series-heavy-duty.md)
