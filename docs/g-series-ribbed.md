@@ -63,3 +63,6 @@ For distributors and OEM buyers:
 - Suitable for retail and marina supply chains
 
 G Series is often selected as an upgrade option for small boat protection packages.
+---
+
+[← Back to Series Overview](00-series-overview.md)
