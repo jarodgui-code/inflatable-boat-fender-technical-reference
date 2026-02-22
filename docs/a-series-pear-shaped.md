@@ -32,4 +32,6 @@ Its wider lower body increases surface contact while maintaining flexible suspen
 
 A Series performs best in scenarios where docking angles vary and flexibility is required.  
 For high-frequency or heavy-duty use, structural alternatives such as ribbed or HTM designs may be considered.
-Back to Series Overview
+---
+
+[← Back to Series Overview](00-series-overview.md)
