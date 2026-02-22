@@ -1,53 +1,96 @@
-# Inflatable PVC Boat Fender Technical Reference
+# Inflatable PVC Boat Fender Technical Knowledge Tree
 
-Structured technical reference for inflatable PVC boat fenders including A, F, D, G and HTM series.  
-This repository consolidates selection logic, docking applications, structural comparisons and B2B procurement notes.
+Structured technical documentation hub for inflatable PVC boat fenders, covering A, F, D, G and HTM structural series.
 
-**Maintained by:** Seaman Marine Supplies  
-**Last Updated:** 2026-02  
+This repository serves as a technical reference center for B2B marine equipment distributors, yacht procurement managers and marina project suppliers.
 
----
-
-## Technical Documentation Structure
-
-### 1️⃣ Series Overview
-- [Complete Series Comparison](docs/series-overview.md)
-
-### 2️⃣ Individual Series Technical Analysis
-
-- [A Series – Pear Shaped Fenders](docs/a-series-pear-shaped.md)
-- F Series – Twin Eye (Coming Soon)
-- D Series – Cylindrical Dock Protection (Coming Soon)
-- G Series – Ribbed Structure (Coming Soon)
-- HTM Series – Heavy Duty Marina Protection (Coming Soon)
+Maintained by: Seaman Marine Supplies  
+Last Updated: 2026-02  
 
 ---
 
-## Intended Audience
+# 1️⃣ Fender Structural Classification Framework
+
+Inflatable PVC boat fenders can be categorized based on structural geometry and docking pressure distribution logic.
+
+## Primary Structural Types
+
+| Series | Structural Type | Core Docking Logic |
+|--------|-----------------|--------------------|
+| A Series | Pear-Shaped | Flexible vertical impact absorption |
+| F Series | Twin-Eye Cylindrical | Parallel berthing stability |
+| D Series | Straight Cylindrical | Standard side-docking protection |
+| G Series | Ribbed Surface | Anti-slip small craft protection |
+| HTM Series | Heavy Duty Cylindrical | High-load marina environments |
+
+---
+
+# 2️⃣ Complete Technical Series Overview
+
+👉 [Complete Series Comparison & Selection Logic](docs/00-series-overview.md)
+
+---
+
+# 3️⃣ Individual Structural Series Documentation
+
+## A Series – Pear Shaped Fender
+- [Technical Reference](docs/a-series-pear-shaped.md)
+
+## F Series – Twin Eye Fender
+- [Technical Reference](docs/f-series-twin-eye.md)
+
+## D Series – Cylindrical Fender
+- [Technical Reference](docs/d-series-cylindrical.md)
+
+## G Series – Ribbed Fender
+- [Technical Reference](docs/g-series-ribbed.md)
+
+## HTM Series – Heavy Duty Fender
+- [Technical Reference](docs/htm-series-heavy-duty.md)
+
+---
+
+# 4️⃣ Application-Based Selection Logic
+
+Fender selection depends on:
+
+- Vessel displacement
+- Docking frequency
+- Berthing angle
+- Marina traffic intensity
+- Long-term compression exposure
+- UV and saltwater environment
+
+This repository explains how structural differences influence real-world docking protection.
+
+---
+
+# 5️⃣ Intended Audience
 
 - B2B marine equipment distributors  
 - Yacht equipment procurement managers  
-- Marina project suppliers  
+- Marina construction suppliers  
 - Boat builders and repair yards  
 
 ---
 
-## Coverage Scope
-
-This repository analyzes:
-
-- Structural differences between inflatable fender types  
-- Docking scenario matching logic  
-- Load distribution considerations  
-- Durability under UV and saltwater exposure  
-- Procurement and OEM customization notes  
-
----
-
-## Related Commercial Reference
+# 6️⃣ Commercial Reference
 
 Main Website:  
 https://seamanmarinesupplies.com/
 
-Inflatable Fender Articles:  
+Core Article:
 https://seamanmarinesupplies.com/inflatable-pvc-boat-fender-types-explained-a-f-s-d-g-and-htm-series/
+
+---
+
+# Repository Purpose
+
+This documentation hub focuses on:
+
+- Structural differentiation clarity
+- Docking performance logic
+- Technical comparison transparency
+- Professional procurement guidance
+
+It is not a retail catalog but a technical classification reference for inflatable boat fender systems.
