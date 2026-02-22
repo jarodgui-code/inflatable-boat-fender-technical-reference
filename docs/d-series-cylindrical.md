@@ -63,4 +63,6 @@ For distributors and marina suppliers:
 - Reinforced hanging eye
 
 D Series is commonly stocked as a standard protection model within inflatable fender product lines.
-Back to Series Overview
+---
+
+[← Back to Series Overview](00-series-overview.md)
